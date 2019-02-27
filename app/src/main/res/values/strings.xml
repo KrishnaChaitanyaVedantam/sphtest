@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="no_internet">Internet is not available loading data from cache</string>
 </resources>
